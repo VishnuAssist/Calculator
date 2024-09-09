@@ -1,11 +1,11 @@
 /** Body **/
 
 body {
-    background: #FFF;
+    background: #85A2C9;
 }
 
 a {
-    color: #748eb3;
+    color: #aded9d;
     transition: .3s;
 }
 
@@ -25,7 +25,7 @@ span.app-title {
 .app-header {
     text-align: center;
     margin-top: 10px;
-    color: black;
+    color: rgb(134, 14, 14);
     letter-spacing: 4px;
 }
 

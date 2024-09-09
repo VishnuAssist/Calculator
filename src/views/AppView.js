@@ -275,7 +275,7 @@ printResultTextCSS = () => {
               <div className="col-md-5">
 
                 <div className="app-header">
-                    <span className="app-title">AJ</span> Calculator 
+                    <span className="app-title">VishnuVenkat</span> Calculator 
                     <span className="badge badge-warning">React <small>js</small></span>
                 </div>
 
